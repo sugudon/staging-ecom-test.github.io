@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/staging-ecom-test.github.io/static/css/main.c3b8c6e7.css",
+    "main.js": "/staging-ecom-test.github.io/static/js/main.bc811530.js",
+    "static/media/bghero.jpg": "/staging-ecom-test.github.io/static/media/bghero.afa451dd55a048aafefb.jpg",
+    "static/media/logo.svg": "/staging-ecom-test.github.io/static/media/logo.602f42bc5247b6c8fc88dcf001c1a477.svg",
+    "index.html": "/staging-ecom-test.github.io/index.html",
+    "main.c3b8c6e7.css.map": "/staging-ecom-test.github.io/static/css/main.c3b8c6e7.css.map",
+    "main.bc811530.js.map": "/staging-ecom-test.github.io/static/js/main.bc811530.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3b8c6e7.css",
+    "static/js/main.bc811530.js"
+  ]
+}
